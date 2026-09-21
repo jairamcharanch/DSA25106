@@ -47,4 +47,5 @@ merge_sort(arr)
 print("Sorted array:")
 
 for element in arr:
+
     print(element, end=" ")
